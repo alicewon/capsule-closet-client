@@ -1,5 +1,5 @@
-## Project title
-Capsule Closet 
+## Project title and description
+Capsule Closet is an app that helps organize the items in your closet so you can create a minimal capsule wardrobe. The purpose of a capsule wardrobe is to have fewer items in your closet that are high-quality but interchangable, so this app helps you to create and save outfit options using the items you have. 
 
 ## Motivation
 The main goal of this project was to familiarize ourseleves with 
